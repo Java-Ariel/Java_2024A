@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a0a6934-53f2-4a9b-85ba-c5afe026399a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/L01/Mahat_Summer_2020A.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="2WCkdlwKAitHq5AvtqdQfAClNdB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeetCode" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="L02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Moed_A">
+    <configuration name="Mahat_Summer_2020A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L01.Mahat_Summer_2020A" />
+      <module name="Java_2024A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mahat_Summer_2020B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L02.Mahat_Summer_2020B" />
+      <module name="Java_2024A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Moed_A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Moed_A" />
+      <module name="Java_2024A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Moed_A" />
+        <item itemvalue="Application.Mahat_Summer_2020B" />
+        <item itemvalue="Application.Mahat_Summer_2020A" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a0a6934-53f2-4a9b-85ba-c5afe026399a" name="Changes" comment="" />
+      <created>1696244041401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696244041401</updated>
+      <workItem from="1696244043371" duration="4000" />
+      <workItem from="1696416281605" duration="33000" />
+      <workItem from="1703661823678" duration="8723000" />
+      <workItem from="1703841739354" duration="25000" />
+      <workItem from="1704265966220" duration="9674000" />
+      <workItem from="1704444166818" duration="8000" />
+      <workItem from="1705477808680" duration="78000" />
+      <workItem from="1705478321841" duration="643000" />
+      <workItem from="1705651609603" duration="28000" />
+      <workItem from="1706109801532" duration="147000" />
+      <workItem from="1706257244646" duration="13000" />
+      <workItem from="1707137355127" duration="61000" />
+      <workItem from="1707137570129" duration="28000" />
+      <workItem from="1707323257248" duration="64000" />
+      <workItem from="1707466449506" duration="11000" />
+      <workItem from="1710423336940" duration="4000" />
+      <workItem from="1711189260856" duration="43000" />
+      <workItem from="1711203363958" duration="1975000" />
+      <workItem from="1711879883106" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/L02/Mahat_Summer_2020B.java</url>
+          <line>138</line>
+          <properties class="L02.Mahat_Summer_2020B" method="q1">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/L02/Mahat_Summer_2020B.java</url>
+          <line>147</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
